@@ -1,0 +1,3 @@
+Go to DigitalDesignTask/bin/Debug/net6.0/tolstoj_dict
+
+P.s You can discover the "War&Peace" source file in the same folder
